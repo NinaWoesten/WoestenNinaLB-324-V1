@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\WoestenNinaLB_295.props" />
-</Project>
